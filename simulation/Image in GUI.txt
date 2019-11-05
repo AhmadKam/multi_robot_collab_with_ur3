@@ -1,0 +1,4 @@
+[X,cmap] = imread('Estop.jpg');
+RGB = ind2rgb(X,cmap);
+imresize(RGB,[100,100]);
+imwrite(RGB,'Estop.png');
