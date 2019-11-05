@@ -4,7 +4,7 @@ The goal of this project was to have two UR3 robots tossing a balloon between on
 
 The project was the result of group work. The program was written in MATLAB and executed on Ubuntu. Additionally, OpenCV and Python were used to determine the balloon centre’s position in Cartesian space and ROS was used to interact with the robot.
 
-##ROS Packages
+## ROS Packages
 In order to run this code, the following ROS packages had to be installed:
 - opencv2
 - iai_kinect2
